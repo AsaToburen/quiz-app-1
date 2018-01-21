@@ -28,6 +28,7 @@ main .quiz-container {
 	margin: 0 auto;
 	background-color: rgba(221, 221, 221, 0.9);
 	padding: 20px;
+	background-color: darkgrey;
 }
 main .quiz-container h1 {
 	font-size: 24px;
